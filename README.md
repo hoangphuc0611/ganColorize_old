@@ -47,7 +47,7 @@ Loss_D =  (real_loss + fake_loss)*0.5
 ## Train model
 
 Select the location to save the model in file translate 
-Save file model to ``checkpoint-trans/...``
+Save file model to ``model/...``
 
 ## RUN test
 ```bash
